@@ -4,7 +4,7 @@ I'm a self-taught programmer passionate about AI, backend development, and UI de
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, SQL
-- **Frameworks and libraries:** FastAPI, ChromaDB, langchain, groq, sklearn, beautiful soup (bs4), customtkinter, tkinter, Streamlit, MongoDB, PostgreSQL,Pydantic,Pydantic-ai
+- **Frameworks and libraries:** FastAPI, ChromaDB, langchain, groq, sklearn, beautiful soup (bs4), customtkinter, tkinter, Streamlit, MongoDB, PostgreSQL,Pydantic,Pydantic-ai, sqlalchemy
 - **Primary Skills:** Backend Dev,AI sandboxing and LLM emergent Behavioural Research tool dev, search engineering (Web crawling, indexing, and semantic, keyword searching and more), AI Agent Dev (with or without libraries [libraries-Langchain,pydantic-ai,etc.])
 
 ## 📌 New Projects
