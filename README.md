@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Anuroop V J
 
-I'm a self-taught **16 y/o** programmer passionate about AI, backend development, and UI design. I enjoy creating tools that make complex concepts accessible.
+I'm a self-taught **16 y/o** programmer passionate about AI, backend development, Nuclear Physics, and simulations. I enjoy creating tools that make complex concepts accessible.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, SQL
-- **Frameworks and libraries:** FastAPI, ChromaDB, langchain, groq, sklearn, beautiful soup (bs4), customtkinter, tkinter, Streamlit, MongoDB, PostgreSQL,Pydantic,Pydantic-ai, sqlalchemy
+- **Frameworks and libraries:** FastAPI, numpy, scipy ChromaDB, langchain, groq, sklearn, beautiful soup (bs4), customtkinter, tkinter, Streamlit, MongoDB, PostgreSQL,Pydantic,Pydantic-ai, sqlalchemy
 - **Primary Skills:** Backend Dev,AI sandboxing and LLM emergent Behavioural Research tool dev, search engineering (Web crawling, indexing, and semantic, keyword searching and more), AI Agent Dev (with or without libraries [libraries-Langchain,pydantic-ai,etc.])
 
 ## 📌 New Projects
