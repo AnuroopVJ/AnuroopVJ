@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anuroop V J
 
-I'm a self-taught programmer passionate about AI, backend development, and UI design. I enjoy creating tools that make complex concepts accessible.
+I'm a self-taught 16 y/o programmer passionate about AI, backend development, and UI design. I enjoy creating tools that make complex concepts accessible.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, SQL
