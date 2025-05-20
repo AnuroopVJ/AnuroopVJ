@@ -9,6 +9,7 @@ I'm a self-taught **16 y/o** programmer passionate about AI, backend development
 
 ## 📌 New Projects
 - [Fractaller](https://github.com/AnuroopVJ/Fractaller): A tool to generate and explore Mandelbrot, Julia, and Buddhabrot fractals.
+- [Mini-PWR-sim](https://github.com/AnuroopVJ/Mini-PWR-sim): A PWR nuclear reactor simulation.
 - [AI-IN-A-BOX](https://github.com/AnuroopVJ/AI-IN-A-BOX): An AI tool that interacts with the filesystem and logs actions using the GROQ API.
 
 ## 📫 Contact Me
