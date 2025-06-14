@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anuroop V J
-<h3 align="left">I'm a self-taught 16 y/o programmer "specializing" in: AI, backend development, simulations, etc.</h3>
+<h3 align="left">I'm a self-taught 16 y/o programmer specializing in: AI, backend development, simulations, etc.</h3>
 
 ###
 
