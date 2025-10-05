@@ -41,7 +41,7 @@ Medium and dev.to
   </a>
 </div>
 <div align="left">
-  <a href="https://dev.to/anuroopv" target="_blank">
+  <a href="https://dev.to/anuroopvj" target="_blank">
     <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
