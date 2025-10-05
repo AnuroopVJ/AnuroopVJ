@@ -33,17 +33,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+Medium and dev.to
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuroopVJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://medium.com/@anuroopvj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+<div align="left">
+  <a href="https://dev.to/anuroopv" target="_blank">
+    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
