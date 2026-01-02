@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anuroop V J
+# 👋 Hi, I'm Anuroop
 <h3 align="left">I'm a self-taught programmer specializing in: AI, backend development, simulations, etc.</h3>
 
 ###
